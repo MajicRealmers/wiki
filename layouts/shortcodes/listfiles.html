@@ -1,0 +1,7 @@
+{{ $dir := .Get "dir" }}
+{{ $files := readDir (printf "static/%s" $dir) }}
+<ul>
+  {{ range $files }}
+    <li><a href="{{ printf "/%s/%s" $dir .Name }}">{{ .Name }}</a></li>
+  {{ end }}
+</ul>

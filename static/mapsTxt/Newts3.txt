@@ -1,0 +1,58 @@
+Dragon Newts Level 3.
+
+                                        *
+                                         \
+                *                         *-*       *
+                |                        /   \     /
+              *-*                   *-*-*   *-*-* *
+                 \                 /             \|
+    L L L         *-*       *-*-*-*               *
+    + + +            \     /                      |
+  LV*-*-*         *-*+*-*-*   *         Up        Up
+    +   |        /       /    |         |
+    L   *     *+*+*     *     *-*       *
+       /|\      |      /     /         /|\
+      *-*-*-*   *   *-* *   *         *-÷-*
+       \|/   \  +        \ / \        |X|/
+        *     *+u+*       *   *   *-*-*-*
+                +  \     /    |  /     \|
+                *   *-*-*     *-*       *
+                |        \   /          +
+                *         *-*           *   L L L
+               /          |             |\  + + +
+              *         P-q             * *-*-*-*
+              |            \           /      +  S
+          *   *             *     L+*-*       L   *
+          |  /|             |                     |
+    *     *-*-*             *-*                   *
+     \   /|X|/             /   \                 /
+      *-*-*-*           *-*     *-*             *
+     /   \|X|          /  |     |               |
+  *-*     *-*         *   *     *               *
+ /        |X|\            |      \             /
+*         *-*-*-*         *       *     *   *-*
+           \|/   \       / \            |\ /|X|\
+            *     *   *-*   *         *-*-*-*-*-*
+            |      \    |             |X|X|X|X|/
+            *       *   *           *-*-*-*-*-*
+             \                     /     \|X|/
+              *-*                 *       *-*
+                                  |
+                                  Dn
+Up- Up to level 2
+P - SinkHole P, leads to p
+u - Landing place of U, guard room 4 locked doors
+q - Landing place of Q
+* - Room
+L - Living Quarters 
+÷ - Glowing Crater, no apparent danger even to drow
+G - Guard Chamber
+S - Secret Door
+V - Venom trapped door. Venom does 4 hp / round takes 2 crpo potions to
+    cure.
+Notes: South of gaurd room leads to Webbed Passages. These passages can
+"hold" you for a time. Wolf Spiders are a common creature, 30 xp, can
+hide and poison (nasty if you're held).
+
+Vampire bats can be found in large south east cavern. These can drain
+xp (up to 100 I think), 50 xp, need silver weapons or spells.

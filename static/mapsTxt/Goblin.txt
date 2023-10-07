@@ -1,0 +1,67 @@
+
+Goblins, Goblins, Goblins.
+
+
+         ~~~
+         ~~~      *-*
+         ~~~      +  \
+         ~~~    *+*+* Up
+         ~~~      |  /
+  * 2 *  ~~~  3+*+* *
+ /|\+ |  ~~~        |
+*-*-*-*-5|=|4-*     *
+ \|/+ +  ~~~   \   /
+  * * *  ~~~    *-*
+         ~~~
+         ~~~
+         ~~~
+
+
+Locations:
+~~~~~~~~~~
+1 - Stairs up, entrance point.
+2 - Lever. Pull lever makes a click. Unkown use.
+3 - Lever. Pull lever makes a click and a rumbling noise. This lowers
+        drawbridge. You must run like hell to get to the drawbridge before
+        it goes up.
+4 - Drawbridge east side. Must be lowered to cross.
+5 - Drawbridge west side. Does not need to be lowered.
+
+How to get to '1':
+~~~~~~~~~~~~~~~~~~
+From PG main entrance:
+    nw, nw, sw, s, e, se, down
+    sw, s, se, s, s, down
+    s, down
+
+in reverse:
+    up
+    n, up
+    n, n, nw, n, ne, up
+    nw, w, n, ne, se, se
+
+Notes:
+~~~~~~
+use "go draw" to cross drawbridge.
+
+2 level 1 characters with crli's can survive. Always attack chiefs
+first, unless you can handle all the goblins that pour in. Go slowly
+and clear out rooms as you go. If you get out numbered retreat a bit
+until there are better odds. DO NOT ATTACK, HIT, MAIM, BACKSTAB, OR
+CAUSE ANY DAMAGE TO FLOATING EYES UNLESS YOU HAVE MORE THAN 35 HP!!!
+
+When you first enter this area the usual configuration is 1 chieftan
+and 4 goblins in each of the major rooms (far west, drawbridge, behind
+doors, etc.).
+
+Creatures:
+~~~~~~~~~~
+    Type:               Aprrox Max Damage:      Approx HP and XP:
+    ~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~
+    goblin              8                       8       8
+    Goblin Chieftan     8 + calls for help      20      16
+    Hobgoblin           8                       10      10
+    orc                 6                       12      10
+    orc shaman          6 + spells              16      12
+    Mud man             6                       8       8
+    Floating Eye        2 (30 when killed)      1       1

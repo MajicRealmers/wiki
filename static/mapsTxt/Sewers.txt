@@ -1,0 +1,102 @@
+SEWERS MAP remapped by Lord Asderath The Wretched
+
+
+
+                          H               o
+                         / \             /
+                        &   W-o   o=o=Q-P                                   o
+                               \ /      |                                   |
+        o                       o       o             o-o                 o-o
+        |                               |                \                  |
+        o                               o                 o     o-o         7-o
+        |                               |                 |       |        /  |
+      o-o-o-o             o-o   o-o   o-P-o-o-o-o       o-o-o   o-o-o-o   o   o-o
+      |   |                 |     |  /          |       |   |   |     |  /    |
+      o   o             o-o-o-o-o-o-o     o-o-o-o-o     o   o-o-o     o-o   o-o
+      |   |             |     |   |       |             |   |           |     |
+      o   o   o         o     o-o o       o-o-o     o-o-o   o-o-o     o-o     o
+      |       |         |       |             |    /  |         |     |
+      o       o         P       o     o-o-o-o-o   o   o         o-o-o-o
+      |       |        / \      |     |          /    |             |
+    o-o-o   o-o-o     o   o   o-o-o   o-o   o   o     o-o o-o-o-o   o-o-o   o
+        |   |   |    /     \    |       |   |  /      |   |     |       |   |
+        o-o-o   o-o-o       o   o   o-o-o o-o-o       o   o     o o-o-o o o-o-o     o
+            |   |            \     /      |   |       |   |     | |   | |   |       |
+            o-o-o-o     o     o   o     o-o   o-o o-o-o-o-o-o   o o o o o   o   o-o-o-o o-10
+              |   |     |      \ /        |   |   |         |   | | | | |    \  |       |
+              o   o   o-o-o     P-o-S-o-o o-o-o   o   o     o-o-o o o-o o     o o       o
+              |   |     |      /        |   |         |     |     |     |      \|       |
+              o-o-o     o     o   o     o   o   o   o-o-o-o-o     o-o-o-o       o-o-o o o
+                |       |    /    |     |       |     |     |                  / \    | |
+            o   o     o-o   o     o-o   o 2-o-o-o     o L o o-o-o-o           o   o o-o-o
+            |   |     |    /     /      |   |   |       | | |     |          /    |   |
+        o-o-o-o-o-o-o-o-o-o     o   o-o-o   o-o-o-o-o-o-o-o o   o o-o   o   o     o-o o
+        |     |     |    /|    /   /    |       |   |       |   | |     |  /      |   |
+        4   o-o     o   o o   o   o o   o-1     o   o     o-o o-o o   o-o-o     o-o o-o
+            |       |  /  |  /    |  \          |  /        |   |     |   |       | |
+            o     o-o o   o-o     o   o     o   o o   o-o   o   o-o-o-o   o       o-o
+                     /    |       |    \    |   |     | |   |         |   |       |
+    G   3-o     o-o o     o     o-o-o   o-o-o-o-o   o-o o   o-o     o-o-o-o-o     o-o
+    #     |     |  /      |     |   |   |        \      |   |       |   |   |
+    o-o-o-o-o-o-o-o-o o-o-o-o-o o o#B   o         o o-o o o-o-o   o-o   o   o-o
+      |     |       | |   |     |   |   |          /  | | |   |   |     |   |
+      o-o   o-o-o-o o o-9 o   o-o-o-o   o-o-o     o   o-o o   o-o-o   o o-o-o
+      |  \      |   |     |   |   |     |   |    /        |   |   |   |   |
+  o-o-o   o-o   o o o-o-o-o-o-o   o C-o o   o-o o o-o-o-o-o   o   o-o-o-o o   o
+  |   |           |   |   |   |   |   | |      /  |       |   |       |   |   |
+  o   o-o-o-o-o   o-o o   o   o-o-o   o o     o   o   o   o-o-o       o   o-o-o-o
+  |       |   |  /        |     |     |  \   / \  |   |                  /    |
+o-o       o   o o         o     o   o-o   o o   o#o-o-o-o         o     o     o
+          |   |/           \    |   |     |       |   |           |    /
+          o-o-o-o-o         o-o-o-o-o     o-o     o   o   o   o-o-o-o-o
+             /|   |             |   |     |  \    |       |   |       |
+            o o   o-o-o   o     o   o     o   o   o-o-o o-o-o o       o
+           /  |   |       |     |         |    \ /    |   |   |       |
+          o   o-o-o-o-o   o-o-o-o         o o-o o     o   o   o-o     o-o-o-o
+         /        |   |         |         | | | |     |   |   |           |
+        5     o-o-o   o         o         o o o o o   o-S-o-o-o   o-o-o o-o     o
+        |     |   |   |         |         |   | | |  /      |     |   | |  \    |
+        o     o   o-o-o-o-o   o-o-o       o-o-o o P-o       o     o   o-o   o-o-o-o
+        |     |           |   |   |             |   |      /|     |   |         |
+        T o-o-o o         o-o-o   o-o   o-o-o   o   o     o o   o-o-o-o         o
+        |       |         |         |   |   |   |        /  |   |   |
+        o       o   o o-o-o     o-o o-o o   o-o-o-o-o-o-o   o-o-o   o
+        |       |   |     |    /  |   | |       |            \  |   |
+    o-o-o#o     o-o-o     o   o   o   o o-o-o   o             o o-o-o
+    |   |  \      |      /    |   |   |     |   |              \
+    o   o   o     o     o     o   o-o-o     o-o o               o
+    |       |     |    /      |             |                    \
+    o       o     o-o-o     o-o-o   o   o-o-o                     o-o-o-o-o-o-o-o
+    |        #        |          \  |  /                            |     |     |
+o-o-o         o       o-o-o       o-o-o                             o     o     o
+               +      |             |
+                o-D   o             o
+                      |
+                6-o-o-o
+                    |
+                    o
+
+
+  1 = Man hole east of Barts        2 = Man hole to dwarves, trolls, red dragon
+  3 = Man hole Alley near Silver St 4 = Man hole Alley near Ox-cart St
+  5 = Man hole near Arena           6 = Man hole on Hillcrest (north of Caldwell)
+  7 = Man hole on Brasier st        8 = Go Pipe, to from dock, go ladder at dog
+  9 = Alley behind Orins Armory     10= Up to east side of wall (2 north of gate)
+
+  P = Park man hole                 C = C'Thog
+  L = to Lower Caverns (push rock)  
+  B = sea block, push block to get west
+  D = Entrance to Durbin Manor      S = Slippery spot
+  G = Green Goblin Cellar           # = Hidden door
+  T = Ghoul Tunnels, go open        = = non-visible exit
+  Q = Up to Dog, go ladder to get back
+  W = Swim under wall to get to the Harbour, this is the western most point
+        of the gravely beach
+  & = Swim under wall to get to the Harbour, this is the northern tip of the
+        west wall of Draconia
+  H = Harbour, sw to go out of city, se to go to the beach that runs along
+        the pier
+
+Notes: The pipe connecting the 2 parts of the sewer requires that you be of
+small stature. I know Lizardmen don't fit. And do know that halflings and
+Drow do. Can ya find out if humans, elfs, etc... can.

@@ -1,0 +1,58 @@
+
+                              *-B               *                    
+                                 \             /                    
+                      *   &       *-*-*-*-*-* *                    
+                       \  |         |        \|                     
+                    *-*-*-*-*       *         *-*-*                 
+                   /  |      \     /         /|
+            H     *   * *-*   *   *   *-*-*-* *
+            |    /    |   |    \ /    |       |
+            *-*-* *   *   * *   7     *       *-*
+           /     \ \   \ /  |  / \     \      |  \
+          *       * *-*-*-* * *   *     *-* *-*   *
+                       / \ /  |   |\    |   |      \
+                      *   *   * * @ *   *   *       *-*
+                      |    \ /  |    \  |   |       |
+                  A   *-*-* 1 *-*     *-*-*-*     *-*
+                   \     \  |  \     /       \   /  |
+                    *     2 *   *   *         *-3   E
+                    |\     /   / \ / \
+                    * *-*-*   *   S   *
+                   /    |        /    |
+                  *     *-*   *-*     *
+                        |    /   \
+                        *   *     *     E
+                       / \       / \    |
+                      D   *     C   *   *
+                      |    \       / \ /
+            *         *     *-*-9-*   *
+            |        /      |        / \
+            *       *     #-*       *   *
+             \     / \       \
+              *-*-*   *       *-4
+              |        \
+              8         *-*-*-*-*-*-5-6
+                          | | | |
+                          * = * *
+
+
+A-B: One-way teleporter. To use go NW from A
+C-D: One-way teleporter. To use go SW from C
+E-E: Two-way teleporter.
+1: Stairs up to Duke Aldor's Palace.
+2: Stairs down to 2nd flor (section 2)
+3: One-way passage to north east
+4: Don't enter this room or you will die (Flame Trap)
+5: type "say zbec tkol" to get past the statue to room 6
+   If you try take the eyes from the statue you fall into a pit trap with a
+   ghoul.
+6: There are stairs going down in this room. Dead end room down stairs.
+7: Confuse Trap
+8: Werewolf Statue
+9: Hidden trap door in ceiling
+#: Alchemist Statue
+@: Spider Statue <bow spider> for bless
+&: Healing pool <drink jet> to use.
+S: stairs down to 2nd floor (Section 1)
+H: <go hole> to enter sewers
+=: Push button to open secret room

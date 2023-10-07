@@ -1,0 +1,29 @@
+Ants Level 1, mapped by Hardly Sane, translated by Asderath TheWretched.
+
+             *
+             |
+       *   *-*-*   *     *
+        \ /  |  \ /     / \
+         * * * * * * *-*   D
+         |  \ / /|  \   \
+         *-A * * * * *-* *
+        /   / \ /| |   |  \
+       * *-* * E * *-* *-* *
+        \  | | |\ /     \ /
+     *   * * * * * * *-* *
+      \ / \ / \    |/   /
+       * * *-* * *-* *-*   *
+       |\ \ \   / \ \   \ /
+       * * * * * * * *-* *
+        \ / \  |  \ /   / \
+         * a * *-*-* *-*-* *
+        / \|  /   / \ /    |\
+       *   *-*   *   *     * *
+      /       \
+     *         *
+
+A - Teleport to a
+a - Teleport to A
+D - Down to lev 2
+E - Entrance
+

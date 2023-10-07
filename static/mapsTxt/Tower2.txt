@@ -1,0 +1,51 @@
+Originally Mapped by Lunar Eclipse
+ Transfered to ascii by Asderath TheWretched
+
+
+
+
+                                           G     o-G
+                                           |     |
+                                           o-o-o-o-o
+                                           |     |
+                                           o U   o
+                                           |  \
+                                           o   o-o-o   G
+                                           |   |X|X|   |
+                                           o-o+o-o-o+o-o
+                                           |   |X|X|   |
+                                           o   o-o-o   o-o
+                                           |     +     | |
+                                         G-o-o   o     o G
+                                           |     |     |
+                             o E       o   o o-o-o-o-o-o
+                             | |       |     |
+                           F-o-o-o-o-o-o-o-o-o
+                               |         | |
+                             o-o         o G
+                             |
+                             o-B
+                             |
+                           o-o
+                             |
+                             o-o
+                             |
+                         D o-o
+                         |   |
+                         o   o-o
+                         |   |
+                       o o-P-S
+                       |     |
+                     o+o-o-o+O-o
+                       |     |
+                       o     T
+
+E - Teleport to F?
+F - Teleport to E?
+T - ????
+O - ????
+P - ????
+D - Down to level 3
+U - Up to level 2 and cold trap passage
+B - Button for Secret Passage, search dry sand
+G - Guard room?

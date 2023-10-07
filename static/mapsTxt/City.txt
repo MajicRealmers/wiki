@@ -1,0 +1,56 @@
+ ____  ____________________________________________________
+|    |/                                                    |_
+|                C i t y   o f   D r a c o n i a             \
+|        |                                                    |
+|        |            ___ Pier___ ___ ___ ___ ___ ___         |
+|        |           |Lor|   |Wrh|Wrh|Wrh|   | B |   |        |
+|       -=-          |___| L |___|___|___|___| r |___|        |
+ \       +           |Inn| o   Bywater   |   | a |   |       _|
+ _|       ___ ___ ___|___| w  ___ ___    |___| z |___|      |
+|        |Tpl|Foo|Baz|Pub| e |   |   |   |   | i |   |       \
+|        |___|___|___|___| r |___|___|   |___| e |___|        |
+|        |  Oxcart Rd.       |   |   |   |   | r |   |        |
+|        |___ ___ ___ ___  R |___|___|___|___|__  \__|___     |
+|        |Gob|   |   |   | o |Pub|   |   |Wpn|  \    |Shu|    |
+|     ___|___|___|___|___| y |___|___|___|___|___|   |___|    |
+|    |Bou|Fra|BH |Ori|Tal| a |Pap|Gld|Acd|   |Elk|   |   |    |
+|    |___|___|___|___|___| l |___|___|___|   |___|   |___|    |
+|   []  St. of Crafts          Silver St.                []   |
+|   []___ ___     ___ ___     ___ ___ ___     ___     ___[]   |
+|    |Tlr|Inn| G |Wpn|Gen| U |GG |Cas|Lib|   |   | C |   |    |
+|    |___|___| l |___|___| p |___|___|___|___|___| a |___|    |
+|        |Are| o |Jai|Bar| p |Jwl|   |Mus|Ord|   | r |   |    |
+|        |___| r |___|___| e |___|___|___|___|___| a |___|    |
+|        |   | y |   |   | r  Old South  |Prk|   | v |   |    |
+|        |___|   |___|___|    ___ ___    |___|___| a |___|    |
+|_         Graveyard |   | R |   |Crt|             n |   |    |
+ /            ___ ___|___| o |___|___|___ ___ ___ ___|___|    |
+|            |   |   |Ald| y |   |   |Inc|   |Pub|   |        |
+|         ___|___|___|___| a |___|   |___|___|___|___|        |
+|        |   | Hillcrest   l |   |                            |
+|  _     |___|___ ___ ___ ___|___|                            |
+|_//         |   |Cal|   |Pal|                                |
+ _/          |___|___|___|___|                             ___|
+|                                                         |  /
+|            This map has not been drawn to scale         | /
+|________________________________________/ |______________|/
+
+Tal - Talen's Weapons shop                      Whr - Wharehouse
+GG  - Golden Goblet Bar, Maj teller in bar      Foo - Fine Footwear
+Pub - Pub                                       Inn - Inn
+Tpl - Temple                                    Are - Arena, Death Pits
+Jai - Jail                                      Bar - Barracks
+Jwl - Jewelers                                  Ald - Duke Aldor's Estate
+BH  - Boar's Head Tavern. Maj teller below      Pal - Palace
+Acd - Acedemy of High Sorcery                   Baz - Battlyn's Bazzarre
+Elk - Temple of Elok, home of Nevros            Tlr - Tailors
+Lib - Library of Ancient Knowledge              Shl - Shields
+Hlm - Fractured Skull Helms                     Arm - Armor
+Wpn - Lorimer's fine Weapons                    Crt - Court House
+Cal - Baron Caldwell (knight trainer)           Gob - Green Goblin Bar
+Ori - Orin's armory                             Inc - Temple of Incanus
+Fra - Fractured Skull Helms                     Bou - Bouncing Blow
+Ord - Order of the Golden Rose, restricted access
+Gld - Guild Hall, Training Rooms for most warrior classes
+Prk - City Park
+Shu - Shujin's Exotic Weapons

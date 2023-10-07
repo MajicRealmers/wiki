@@ -1,0 +1,147 @@
+Ogres 1A:
+                                  *           *
+                                 /           /
+                                *           *
+                                |           |
+                        *-*   *-*-*-*       *-*
+                           \ /    |  \     /   \
+                            *     *   *-*-*     *-*
+                            |     |     |          \
+                        *   *   *-*     *     *     *
+                       / \  |          / \     \    |
+        *-*-*-*       *   *-*-*       *   *     *   *
+               \       \       \     /    |    / \  |
+          *     *-*-*-*-*       *-*-*     *   *   * *
+           \       /     \          |     |   |     |
+            *-*-*-*       *-*       *     *-*-*     *
+                 /                 / \   /     \   /
+      *-*   *-*-*                 *   *-*   *   *-*
+     /   \ /                     /         / \  |
+    *     *                     *   *     * *-* *
+    |                           |   |      \   /
+    1                         *-*   *-*     *-*
+   /                          |  \ /
+  *                           *   *         *-*
+  |                          /     \        +
+  *                         *       *     *-*-*+*
+ /                         /        |    /  +  \
+*                         *         *-*-*   *   *+*
+|                         |        /|X|        +|
+*                   *-*-2 *       *-*-*       * *
+|                  /      |        \|/           \
+*                 *       *         *           *-*-*
+ \                 \     /          |
+  *-*               *-*-*     *     *
+     \                        |     |
+      *             *-*-*-  U-*     *
+     /|\           /           \    |
+    *-*-*-*-*     *-*-*-*       *   *
+   / \|/     \   / \             \  |
+*-*   *       *-*   *-*-*         *-*+?
+
+
+1 - Go Crack leads to Ogres 1C
+2 - Sloping tunnel leads under existing map without a direct up or down
+        map is continued in 1B
+U - Up, this is the entrance after go slab
+? - Unknown what lies behind this unopenable door
+
+
+Ogres - 1B:
+
+
+2-*-*
+     \
+      *                 P
+      |                 |
+      *     *   *       *
+       \   /     \     /
+        *-*       *   *-*-*
+           \      |\   \   \
+            *   * * *-* *-* *
+             \  |/ /|  /
+              *-* * *-*-*
+                 \
+                  *
+
+P - Down is healing Pool
+
+Ogres - 1C:
+
+                          *-*
+                         /
+                *-*-*-*-B
+                |/|    \
+          *-*-*-*-*     *-*
+         /     \|
+1     *-*       *
+ \   /
+  *-G-*
+   \
+    *
+    |
+    *
+   /
+  *
+
+
+B - Push Button, opens passage to lair
+G - Guard Room, regenerates rapidly, usually 1 Cheiftan and 5 ogres
+
+
+Ogre Lair Lev 1:
+
+D
+
+
+D - Guard room with a down exit which leads to another room full of ogres
+        push button re-opens the passage out
+
+
+Ogre Lair Lev 2:
+
+
+
+
+                                       L
+                                       +
+                             W   L   G-*   L
+                              \  +  /|X|   +
+                               *-*-*-*-*S*-*
+                                 +  \|/     \
+                                 L   * L *   *-L
+                                     + +/ \  |
+                                 * * *-*   * *-L
+                                 | |/  +   | |
+                                 *-*   L   *+*-L
+                                   |       | |
+                               *-*-*   L * * *-U
+                              /  +  \  |/  + |
+                             *   K   *-* L-L *   
+                             |   |\          + 
+                             *   K K C C C   *
+                              \      | | |  /|\
+                               *   T-*-*-*#*-P-*
+                                     | | |  \|/
+                                     C C C   *
+
+U - Up to push button room and Ogre Lair Lev 1
+# - Poison trapped door
++ - Door
+P - Prayer Circle, hidden door down
+K - Kennel
+L - Living Quarters
+G - Guard Post
+W - Stone Well
+C - Prison Cell
+T - Torture Chamber
+S - Secret Door
+
+Notes on Creatures:
+~~~~~~~~~~~~~~~~~~~
+The Lair has Gnoll Warlocks, Gnoll Shamans, Ogre Mages, and Ogre Lords.
+The Lords are not encountered as randoms.
+Mages can icon (or somthing similar) this is bad for lizards, it can do
+        up to 35 pts while you are resisted.
+Other than that just use your common sense with these spell casters as
+        you would with any spell casting monster.

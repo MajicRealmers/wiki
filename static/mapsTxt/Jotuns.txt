@@ -1,0 +1,64 @@
+                                        o
+                                       /
+                                  o   o
+                                   \ /
+                    6               o
+                   /               / \
+                  o               o   5
+                 /               /
+                o       o-o-o   o
+                 \     /     \ +
+                  o   o       o
+                   \ /       / \
+                    o       o   o
+                                |
+                                o
+                                |
+                                o
+                               /
+                    3   2 o   4
+                     \  + +  /
+                  o   o-o-o-o
+                 /    |    +|
+            o   o   o+o o-o o+o
+             \ /      | |X| |
+              o     o+o o-o o+o
+             / \      |     |
+o           o   o     o-o-o-o
+ \         /         /  + +  \
+  o   o   o         o   o o   o   o
+   \ / \   \       /           \ /
+    o   o   o     o       o     o
+         \   `   /        |    / \
+          o   o-o         o   o   o
+           ` /  |         |        \
+            o L o   o     o         o-o-o
+            |  / ` /      |         |/ \|
+            o-o   o       o-o-o-o   o L o
+           /   `   \     /          |\ /|
+          o     o   o   o           o-o-o
+         /       \   \ /           /
+    1   o     o   o   o           o
+     \ +     / \   \             /
+      *     o   o   o           o
+     / \     \     /           /
+    U   o     o   o       o   o
+               \ /         \ /
+                o           o
+                           / \
+                          o   o
+                         /
+                        o
+
+` - illusionary wall
+L - Lava Pit, do not go here
+* - bash open the NE door, then disarm the trap at location 1
+U - Up, Iron Staircase
+1 - Pull ring to disarm the fire trap on the door
+2 - Acid Rain trapped door
+3 - Push button, opens the illusionary NE wall at location 4
+4 - NE wall can be passed by pushing button at location 3
+5 - Pull chain, opens the secret passage at location 6
+6 - Secret Passage, entrance to second level every room is safe except
+        the nw passage, which is the beginning to the fire ball hallway
+

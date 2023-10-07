@@ -1,0 +1,47 @@
+                              TOWERS LEVEL 1    
+                             ----------------   
+            N                                     
+                                    B             
+            *                       |             
+            |               *-*     2                   
+            |               |      /+\                  
+         w -+- e        *-*-*-*-*-* D *-*               
+            |           |   |      \ /   \              
+                        *   *-*     *     *-*           
+            s           |           |     |             
+                      *+*     *     *     *             
+        *                     |    /     %V             
+        |               *-*-*-*   *   *-*-*-*           
+      S-*-*             |        /|  /    |             
+      | |               * *-*   * E *     *             
+      * F               | |    /  |/      |           
+      |               *+* *   *   *   *   *             
+      *                 | |  /   /    |   |               
+      |                 *-*-*   P   * * *-*               
+      *-*-c               +     |   + |   |             
+                          W     p C-*-* *+*+*              
+                                      |   |                
+                                      *   *       Mapped by Daedalas!
+                                      |   |       Mod by Asderath.
+                                      *-*-*+*           
+                                                        
+                                                        
+C - links to c.   
+c - links to C.
+D - Down to level 2
+V - One way South.
+% - One way Southwest.
++ - Door
+S - Stairwell.
+F - Foyer, once in foyer, north takes you to Entrance.
+E - Entrance from north of Foyer.
+W - Acid rain trap on door.
+p - Prison system.
+P - Search wall, push button, to open the exit to prison system.
+2 - Search South for Level 2.
+B - Push Button. (turns off the cold traps).
+
+
+             * * p * *
+             + + + | |
+             *-*-*-*-*

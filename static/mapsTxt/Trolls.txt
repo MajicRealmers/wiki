@@ -1,0 +1,145 @@
+TROLLS Level 1
+
+
+                                  o-o-o o
+                                       \|
+                                      o-o-o     o
+                                         \      +
+                                          o     o-o-o
+                                          |    /  |
+                                        o-o   o   D
+                                          |   |
+                                    o o-o-o   o
+                                    +/  |X|\  |
+                        o       o-o-o   o-o-o-o
+                        |        /   \   \|X|/
+                o       o-o-o-o-o     o   o-o
+                |      /                  |
+                o     o             o     a
+                 \    |             |
+                  o   o           o-o   o A-o
+                  |  /|            / \  | |
+                  o-o-o         E-o   o-o-o
+                 /|X|/                | |\
+                o-o-o               o-o o P
+                |X|X|
+                o-o-o
+                 \|/
+                  o
+                  |
+                  o
+                  |
+                  o
+                   \
+                    o
+                     \
+                      P
+
+E - entrance
+A - shrine, push left eye to go north
+a - turn knob right to go south
+D - Hidden, poison trapped, down door to 2a. Only trapped from this side
+P - Pits
+
+dirs to trolls, go to lakes edge stream in lower caverns, go opening,
+s,se,s,e go led, e,e,ne,e,e go led four times
+
+
+TROLLS Level 2a
+
+
+
+
+                  o
+                   \
+                o-o-o
+                 /   \
+                o     o-o
+               /      |\
+        U-o-o-o       o o o
+                     /  |\|
+                  D o o o o-o
+                 /     \ /|
+              o o   o o-o o
+               \|  /   /|
+                o-o o o o
+                |\   \|\
+                o o o-o o-o
+                   \      |
+                    o-o-o o
+                   /   \ /
+                  o     o
+
+U - Up to level 1
+D - Down to 2b
+
+
+TROLLS Level 2b
+
+
+
+
+
+        o-o
+           \
+            o           o
+            |          /
+            o       o-o
+            |      /
+            o   o-o
+             \  |
+              o-U-o
+             /
+            o
+           /
+          D
+
+
+
+U - Up to level 2a
+D - Down to Level 3 (Ambush area) This down is guarded by 4 rock trolls
+
+TROLLS Level 3
+
+
+                            G   U
+                            |  /
+                          G o-G
+                          |/|X|
+                      o-o-o-o-o-G
+                     /    |X|X|
+        o-o       o-o   o#o-o-o   G
+           \     /  V     | |  \  +
+            G-o-o   o   o G G   o-o-o
+           /       / \ /             \
+          o o     o   o               R-
+          |  \    |   |
+          o   o   o-o o     o       o
+           \ /|   |    \    |      /
+            o o   o     o   o     o
+               \ /|     |  /      |
+              o-o o     o o       o     W
+                   \     \|      /      |
+                    o     1   o-o-o     o
+                    |     |  /     \   /
+                    o-o   o-o       o-o
+
+
+
+U - Up to 2b
+1 - move column, go hole to get to Cave trolls
+# - Fbal trapped door
+V - One way passage south
++ - Door
+G - Guard Room
+W - Waterfall, do not enter
+R - River, cannot go beyond this point, not sure if this spot is safe
+
+
+Ambush notes:
+
+regular ambush is 3 rock trolls, 1 dark troll, and 1 shaman
+large ambush is 1 cave troll, at least 1 dark troll and 1 shaman, and the
+        rest rock trolls, up to a total of 10 trolls
+
+

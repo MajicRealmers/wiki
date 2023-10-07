@@ -1,0 +1,90 @@
+Ghorohg (wogs)
+
+     \
+      D                             o   o
+       \                           / \ +
+        o                 o-o     o   o     o-o
+         \               /   \     \   \   /   \
+          o-o           o     o     o   o o     o   o-o
+         /   \           \    |    /    |  \     \ /
+        o     o-o     o   o   o   o     o   o     o
+       /         \   / \  |    \  |      \ /      |
+      o   o       o-o   o-o     o o       o       o
+       \ /       /         \    |  \      |        \
+        o       o     @     o   o   o   o-o         o
+        |      /|\     \   /     \ /   /   \        |
+        o     o-o-o     o-o   o   o   o     o-o     o
+         \   /|X|X|\   /   \ +         \       \   /
+          o-o-o-B-o-o-o   o o         *-*-*     #-o
+          |X|X|X|X|/     /   \       /|X|X|\   /
+        o-o-B-o-o-o     o     o   o-*-*-C-*-*-o
+       /   \|X|/       / +    |  /   \|X|X|/
+    o-o     o-o     o-o   o   o-o     *-*-*
+   /       /   \   /         /             
+  o       o     o-o     o-o-o     o-o      
+ /       /         \         \   /   \    |
+E     o-o     o     o-o-o     o-o     o   o
+         \   /     /     \   /         \ /
+          o-o     o       o-o           o
+         /   \   / +                    |
+        o     o-o   o                   |
+             /                          |
+            o                           |
+            |                           |
+            o                           |
+                                        |
+                                        |
+        o   o   o                       |
+         + / \ +                        |
+      o   o   o   o             o   o   |
+       + /     \ +             / \ +    |
+        o       o           o-o   o     |
+       /         \         /       \    v
+    o-o   o-o     o-o   o-o         o       o-o
+   /     /   \       \ /|X|\        |      /   \
+  o     o     o-o     o-o-o-o-o   o-o     o     o-o
+  |    /         \   /|\   X|X|\ /   \   /
+  P   o           o-o         o-o     o-#                           
+   \  |                       |X|        \
+    o o   o   o         o-o-o-o-o-o       o
+    |  \ / \ /         / \|X|X|/   \      |
+    o+o o   o         o   o-o-o     o   o-o
+    |  /     \        |     |  \       /   \
+    o o       o-o     &     o   o   o-o     o
+   /   \     /   \     \   /     \ /         \
+  o     o   o     o     o o       o           o
+  |    / \ / \    |    / \        |           |
+  o-o-o   o   o   o   o   o-o     o+o         P
+  |       |   |    \     /   \    |          /
+  o       o   P     o-o-o     o   o       o-o
+   \     /     \      |      + \ /       /
+    o- -o       o     o     o   o       o
+   /|\ /|\           /           \      |
+                    o             o     o
+                     \           /       
+                      o         o        
+             \|       |         |       ^
+             -o-o     #         o       |
+             /|  \   / \         \      |
+                  o-o   o         o-o   o
+                        |            \ /
+                        o             o
+
+# Touch column for a crcr every 2 minutes or so
+* eerie cavern, lose 1 sp every directional move
+& bottom of a pit
+C Green Crystal, didnt try touching it
+P no idea what pools do
+@ is a pit trap
++ door, none trapped as of yet
+E entrance, like almost all areas now, each party member has to walk in
+the v and ^ join up, it's a sloping passage that overlaps on map, like ogres
+    does
+D decl corridor, haven't tried it yet
+B Bonfire, unlike trolls, these bonfires hurt. Did 60 to a resisted drow
+
+
+unfinished links have yet to be mapped
+
+
+there is one more pit or shaft somewhere I haven't found yet

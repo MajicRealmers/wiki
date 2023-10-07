@@ -1,18 +1,22 @@
 ---
-title: Documentation
-next: first-page
+toc: false
+type: docs
+next: getting-started.md
 ---
 
-This is a demo of the theme's documentation layout.
+# Majic Realm Wiki
 
-## Hello, World!
+This is a fan-created knowledge base for the online MUD (mud-user dungeon) game known as the **The Majic Realm**.
 
-```go {filename="main.go"}
-package main
+The Majic Realm ran from 1992 until it shutdown in 1997. Thanks to the hard work done by former ICE employees and players, the Majic Realm was resurrected and brought back online in 2023.
 
-import "fmt"
+This wiki serves as a resource for players old and new to the Realm.
 
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+## Get Connected
+
+
+| Offical Website       | **[https://majicrealm.com](https://majicrealm.com)** |
+| :-------------------- | :----------------------------------------------------- |
+| Telnet Server      | realm.majicrealm.com                                 |
+| Telnet Port        | 28375                                                |
+| Recommended client  | [Mudlet](https://mudlet.org)                         |

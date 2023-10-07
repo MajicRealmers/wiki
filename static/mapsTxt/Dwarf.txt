@@ -1,0 +1,50 @@
+DWARVES MAP
+
+                       *
+                       |
+                   *-*-*-*
+                  /   \
+                 *     *
+                 |      \
+           *     *       *   *
+           |    /            |
+           *   *             *
+            \ /               \
+             P       P-P       *
+             |      /   \       \
+             P     P     P       *       o
+             |    /              |      / \
+           P-P-P-P               *     o   o
+            /     \              |     |    \
+           P       *             *     o     J-o
+           |        \           /      |
+           P   S     *     *-*-*     G-o     G         o o
+            \ /       \   /            |    /          |/
+             P *       * *             E-o-o           o
+             |  \      |/             /     \          |
+             P   * *   *       o-o   o       o   o   o-o
+             |   |/    |      /   \ /       / \  |  /
+             * * * *   *   o-o     o   o-o-o   o-o-D2
+            / \ \|/    |          /            |
+           *   *-*-*   B         o             o
+              /| |  \  |        / \            |
+             F * *   S *       o   o           o
+                /      |      /     \          |\
+               *       D1    o       o-o       o o-M
+                       |    /        |        /  |
+                       1-o-o         o       o   o
+                          /|\               /     \
+                         o-o o             H       o
+
+P = Poison. Hold breath before entering. (don't know how to hold breath).
+G = Guard Room. Lots of Dwarves here.(usually)
+U = Stairs going up.
+D1= Stairs going down to D1. (or hidden trap door)
+E = Entrance.
+D2= Stairs going down to D2. (or hidden trap door)
+* = Normal rooms.
+S = Silver Vein. (mine silv, or pick silv - must have a pick).
+H = Paralize Healing Spring. (unkown).
+M = Mine cart. (rel brake to use a mine cart. Unknown destination).
+F = Fools Gold Vein. (mine gold, or pick gold - must have a pick).
+J = Fire Jet. Does fire damage once upon entering.

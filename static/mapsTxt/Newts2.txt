@@ -1,0 +1,59 @@
+Dragon Newts Level 2.
+
+      E                     *-*     *
+       \                   /   \    |
+        *-*               *     *-*-*-*
+           \              |       |    \
+            *-*           *       G     *
+              |          /              |
+              *     *-*-*               Dn
+             / \   /
+            *   *-*                                       Dn
+                |                                         |
+          *-*   *                             *           *
+           / \ /|\                           /           /
+        *-*   *-U-*             *       *-*-P     *   *-*
+       /       \|/               \     /     \   /|\ S
+    R-*         *                 *-*-*       T-*-*-*
+                |                     |          \|/
+                *-*                   *           *
+                |                      \          |
+                *                       *-w       *
+               /                        |          +
+    *-*     *-*           z         *   *           L
+   /   \   /  |           +        /     \
+*-*     *-*   *-*         *       *       1   *
+  |       |   |  \         \      |       |    \
+  *       *   y   *         *-*-*-*-Q     *-*   M
+   \       \ /                     \     /   \  |
+    *       *                     *-*-*-*     *-M-M     *
+    |       |                         |            \   /
+    *       *                         *     *-*     *-*
+            |                              /   \   /
+            *   *                         *     *-*
+             \  |                         +       |
+              *-*                         L       *
+              |  S                                 \
+              *   *-*                               *
+             +      |                               |
+            L       Up                              C
+                                                     \
+                                                      *-*
+R - Refinery, Balcony
+Q - Pit or Sink Hole Q leads to q
+U - Pit or Sink Hole U leads to u
+L - Living Quarters
+S - Secret door
+E - Dripping Pool, eat sediment for a heal. Sediment can only be used
+        every couple of rounds.
+P - Push Switch to release trap, then lower a rope in to rescue (2 X)
+T - Pit Trap, see P
+G - Guard Room
+Dn- Down to level 3
+Up- Up to level 1
+M - Mold, poisons you
+1 - East wall has smoke residue, descrip says someone was searching east.
+w - Landing place of sinkhole W
+y - Landing place of sinkhole Y
+z - Landing place of sinkhole Z, and guardroom
+C - Cracks in floor. Couldn't find anything.

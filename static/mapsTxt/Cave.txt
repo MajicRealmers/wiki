@@ -1,0 +1,55 @@
+CAVE TROLLS:
+                    o-o
+                   /   \
+                o-o     o         o
+                        |        /
+                        o     o-o       o-o-o
+                       / \   /         /+ +  \
+                      o   o-o         o o o   o
+                      |      \                 \
+                      o   o   o   o-o           o-o   o   o
+                     /   / \   \ /   \         /   + /|\ +
+                 2o-o   o   D   o     o   o-o-o     o-o-o
+                        |       |        /         /|/ \|\
+                        o     o-o       o     o-o o-o   o-o
+                       /     /   \      |        \ \|\ /|/
+          o           o     o     o     o         o o-o-o
+           \          1           |      \        |  \|/ +
+            o         o-o         o       o-o     o   o   o
+            |        /   \       /|\      + +\   /        |
+            o       o     o   o-o-o-o     o o o-o         o
+             \      |        /|X|X|X|\        + +        /
+              o-o   o     o-o-o-o-o-o-o       o o o-o   o
+             /     / \   /   \|X|X|X|X|          /   \ /
+          o-o     o   o-o     o-o-o-o-o-o     o-o     o
+         /   \    |                \|/   \   /        |
+        o     o   o       o-o       o     o-o         o
+        |      \ /       /   \      |                  \
+        o       o       U     o     o         o         o
+                |              \   /          +         |
+                o               o-o   o       o         o
+               /                       +     /|\       /
+            *-*         o-*       o     o+o-o-o-o   o-o
+           /|X|\        |X|\      |    +   \|X|/ \
+          *-o-o-o-o   o-*-o-5-o   o-o o     o-o   o-o
+         /|X|X|X|X|\ /|X|X|X|  \ /                   \
+        o-*-o-o-*-o-o-o-*-o-o   o       o-o       o   o+o
+         \|X|X|X|X|X|X|X|X|/    |      /   \     /    |
+          o-*-*-o-*-o-o-o-4     o     o     o-o-o     o+o
+             \|X|  \|/   /     / \   /      +    \   /
+              o-o   3-*-/   o-o   o-o       o     o-o
+                                     \
+                                      o
+
+D - Down to Deep Trolls
+U - Up to Ambush Level Trolls
+1 - blit trap here if you go north apparently
+2 - Wizard Door. cant open it.
+3,4 - Go Dark, move, Go Hole. same for either direction
+5 - Go Crease
+Follow the asterixes (*) in the mud pit to take the least amount of damage
+
+This map looks best printed at 8 lines per inch instead of the regular 6.
+So if you know how to do that, do it first and it will look alot better.
+Or to just view it, it looks better in 43/50 line mode than it does at 25 or
+30 line mode.

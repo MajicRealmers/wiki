@@ -1,0 +1,55 @@
+Dragon Newts Level 1.
+
+                     N
+                      \
+                       *-*       V
+                      /   \      |
+                   N-*     *     *
+                           |    /
+         L                 *   *
+          +               /|\  |
+           *-*     *-*   *-*-*-*     *-*-*
+          /   \   /   \ / \|/   \   /     \
+         1a    *-*     L   *     *-*       *
+         |             |         |         |
+         1b            * L     *-*         *     *
+          \           /   +   /  |        /     /|\
+           *         *     *-*   W       *   *-*-*-*
+           |         |    /               \ /   \|/
+   *       *       Z-*   P                 *     *
+    \     /|\         \                    |
+     *-*-*-Y-*         *       *           *
+      /   \|/ \        |      /           +
+   *-*     *   *-*     *-*-*-*           L
+     |         |      /|X|
+     *         *     *-*-*   *
+     |\               \|/ \  |
+     B *-*     L       *   *-*
+    /     \    +       |      \
+   T   *   *   *       2       *-*
+        \  |  /         \
+         *-*-*-* Dn      *
+           S     |        \
+           *     *         *-E
+            \   /
+             *-*
+             |
+             *
+
++ - Door
+E - Entrance, go rope to get out
+Z - Pit or Sink Hole Z, to location z
+Y - Pit or Sink Hole Y, to location y
+W - Pit or Sink Hole W, to location w
+V - Pit or Sink Hole V, to location v
+B - 'Push Bulge' here to release Trap.
+T - Viper Trap, newt drops vipers at you. See B for escape.
+1a- Go hole to get south
+1b- Go hole to get north
+S - Secret Door
+2 - Spike trap. Leader gets whacked for up to 32(?) points.
+L - Pull lever to change exits from "s, nw" to "s, ne"
+L - Living Quarters or Storage Room
+P - Slimy Pool
+N - Narrow Ledge
+Dn- Down to level 2

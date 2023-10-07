@@ -1,0 +1,73 @@
+                      o
+                      |
+                    o+o                   o-o-D
+                       \                   \|X|
+                        o             o-o   B-o
+                         \            |X|\   \|
+                L         o   o       o-o-B   o
+                |          \ /       /|X|X|\
+                o           o       o-o o-o-o
+               /|\          |        \|X|X|X|
+              o-V-o-L       o   o     o-o-o-o
+              |X|/           \ /       \|/|
+              o-o             o         o o
+             /| |\            |            \
+            o-V-o-V   o   o   o       o     o-o   L
+            |X|X|X|\ / \ /     \      |    /   \  |
+            o-o-o-o-o   o       o-o   o   o     o-o
+            |X|X|/      |      /     /    |        \
+            V-o-V       o     o     o     o-o       o
+             \|X|\       \    |    / \   /         /
+              o-o-o       o   o   o   o-o   o   o-o
+              |X|X|       |    \  |         |     |
+              o-V-o       o     a<o A     o-o     o
+             / \|/ \       \     /   \   /   \   /
+            L   o   o       o-o o     o-o     o-o
+                |  /           \|    /  |        \
+                L o   o-o       E-o-o   o   o-o   o
+                + |  /|X|\     / \         /
+                ? o-o-o-o-o   o   o     o-o
+                  |X|X|X|X|   |    \   /
+                  o-o-o-o-o   o     o-o
+                   \|X|/     /     /   \
+                    o-o   o-o   o-o     o-o
+                   /     /             /
+                o-o     o     o-o   o-o o   o-o
+               /       / \   /   \ /     \     \
+              o     o-o   o o     o       o     o-o
+              |    /   \   \              |        \
+              o   o     o   o o           o-o       o
+               \            |  \         /   \      |
+                o           L   o-o   o-o     o-o   o
+               /|\                 \ /           \ /
+              o-o-o-o         o     o             o
+              |X|X|X|\        |     |              \
+              o-o-o-o-o-o     o     o               o
+               \|X|X|/   \   / \     \              |
+                o-o-o     o-o   o     o             o
+                |X|/     /       \    |
+                o-o     o         o   o
+                        |         |    \
+                        o         o     o
+                         +         \   / \
+                          L         o-o   o
+
+E Entrance, go hole to get in, go rope to get out
++ Door
+L Living Quarters
+B Bone Ladder, Go ladder to get to upper platform, Go ladder to get back
+        down. If you walk off platform you take falling damage
+a When exiting east you go to A
+A when exiting west you go to a
+< one way passage to a
+D Drink bowl to get a crcr
+V Vortex. Do not enter. If you do, keep trying to get out until you move or
+        die
+? this door cannot be bashed. It has 3 keyholes. 1 copper, 1 silver, and
+        1 gold. I would assume you need all three keys to open the door.
+        presumably the boat is behind the door.
+
+
+Notes: To get to Druids, from West Bridge, head west till grimwood, then
+        west 4 times and go hole. Grimwood is a teleportation nightmare.
+        to exit, type nw,sw repeatedly. There are other ways to get out.
