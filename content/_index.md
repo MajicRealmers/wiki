@@ -20,3 +20,6 @@ This wiki serves as a resource for players old and new to the Realm.
 | Telnet Server      | realm.majicrealm.com                                 |
 | Telnet Port        | 28375                                                |
 | Recommended client  | [Mudlet](https://mudlet.org)                         |
+
+
+`Wiki published by Karrade`
